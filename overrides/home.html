@@ -1,0 +1,52 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<link rel="stylesheet" href="assets/stylesheets/home.css">
+<!-- Hero -->
+<section class="container">
+    <div class="md-grid md-typeset">
+        <div class="hero">
+            <div class="hero-content">
+                <h1> Welcome! </h1>
+                    <p>Welcome to the vHCF ATC Reference hub. You will find Local Instructions for airports, TRACON's and enroute sectors, as well as other information pertinent to providing a high-quality service within the virtual HCF ARTCC.</p>
+                <a href="https://www.vhcf.net/" title="vHCF Website" class="md-button">
+                    Back to vHCF website.
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Page links -->
+
+<div class="lowerSection">
+    <div class="md-grid md-typeset">
+        <div class="feature">
+			<h2>Featured Changes</h2>
+			<div class="cards">
+				<div class="card">
+						<a href="">
+							<h3>New Enroute Detail</h3>
+
+							<p>
+								New Alias references have been included.
+							</p>
+						</a>
+				</div>
+						
+				<div class="card">
+					<a href="">
+						<h3>Search Function</h3>
+						<p>
+							Need to quickly find information? The search function can be used to search for words or phrases. Need to be more specific? Search with "quotes".
+						</p>
+					</a>
+				</div>			
+			</div>
+		</div>
+    </div>
+</div>
+
+{% endblock %}
+{% block content %}{% endblock %}
+

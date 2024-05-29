@@ -1,0 +1,95 @@
+site_name: vHCF Standard Operating Procedures
+site_url: http://localhost:8000/
+repo_url: https://github.com/vHCF-Facility-Team/vHCF-SOPs
+repo_name: vHCF-Facility-Team/vHCF-SOPs
+edit_uri: "" #removes edit button and icon
+
+theme:
+  name: material
+  custom_dir: overrides
+  font:
+    text: Lato
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+  - awesome-pages
+  - git-revision-date-localized:
+      type: date
+  - open-in-new-tab
+
+# Styling Front-end
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/admonitions.css
+  - stylesheets/navigation.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vHCF-Facility-Team
+      name: vHCF on Github
+
+# Additional Markdown Extensions to use bundled icon sets
+markdown_extensions:
+  - meta # Add front matter to a document
+  - admonition # Makes things pretty
+  - pymdownx.superfences # Nestled code
+  - attr_list # Add HTML attributes and CSS classes to Markdown elements
+  - pymdownx.tabbed: # Content tabs
+      alternate_style: true
+  - pymdownx.details # Additional features to admonition
+  - pymdownx.caret: # Formatting Extension
+      smart_insert: true
+      insert: true
+  - pymdownx.critic # Alternate Formatting Extension
+  - pymdownx.mark # Formatting Extension
+  - pymdownx.tilde # Formatting Extension
+  - pymdownx.keys # Visual keyboard keys extension
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji: # Allows emoji style inline embeds for icons
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html #enables the use of image figures
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.arithmatex: # Allows the use of math formulas with proper formatting
+      generic: true
+  - pymdownx.escapeall: #allows line breaks in tables
+      hardbreak: true
+  - footnotes
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js  
+
+validation:
+  unrecognized_links: ignore
+
+copyright: 
+ Copyright &copy; 2024 <a href="https://github.com/vHCF-Facility-Team" target="_blank" rel="noopener">vHCF Facility Team</a>
