@@ -8,7 +8,7 @@ theme:
   name: material
   custom_dir: overrides
   font:
-    text: Lato
+    text: Share Tech
   palette:
     - scheme: default
       toggle:
