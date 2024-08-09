@@ -144,4 +144,4 @@ LC has responsibility for all Class B airspace within 5 miles of the airport’s
 
 
 ## Full SOP
-For more details, refer to the [full SOP](https://cdn.vhcf.net/uploads/196-hnl-71101-honolulu-atct.pdf)
+For more details, refer to the [full SOP](https://www.vhcf.net/storage/files/_1720206777.pdf)
