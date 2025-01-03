@@ -1,18 +1,18 @@
 # Honolulu (HNL)
 
 ??? info "Revision Info"
-- Document Number: HNL 7110.1
-- Date: 01 Jan 2025
-- Revision Version: **H**
-- Editor: Dirk Thorben Kottenhahn, HCF FE
+    - Document Number: HNL 7110.1
+    - Date: 01 Jan 2025
+    - Revision Version: **H**
+    - Editor: Dirk Thorben Kottenhahn, HCF FE
 
 ??? note "Abbreviations"
-- **ASDE-X**: Airport Surface Detection Equipment, X-Band Radar
-- **ASR**: Airport Surveillance Radar
-- **CD**: Clearance Delivery
-- **GC**: Ground Control
-- **LC1**: Local Control 1 (North Tower)
-- **LC2**: Local Control 2 (South Tower)
+    - **ASDE-X**: Airport Surface Detection Equipment, X-Band Radar
+    - **ASR**: Airport Surveillance Radar
+    - **CD**: Clearance Delivery
+    - **GC**: Ground Control
+    - **LC1**: Local Control 1 (North Tower)
+    - **LC2**: Local Control 2 (South Tower)
 
 !!! abstract "Quick Reference"
     - IFR Departure Altitude: 5,000
