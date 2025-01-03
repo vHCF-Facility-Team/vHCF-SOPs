@@ -1,5 +1,6 @@
 nav:
     - Home: index.md
+    - Foundations: foundations
     - Airports: airports
     - TRACON: tracon
     - Enroute: enroute
