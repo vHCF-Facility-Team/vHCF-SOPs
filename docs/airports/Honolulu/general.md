@@ -4,7 +4,7 @@
 
 | Callsign           | Position          | Radio Name           | Position ID | Frequency                       |
 | :------------------: | :----------------: | :------------------: | :-------------: | :---------------------------: |
-| **HNL_DEL** | Delivery | Honolulu Clearance | CD | 121.400 |
+| **HNL_DEL** | Delivery | Honolulu Delivery | CD | 121.400 |
 | HIK_RMP | Ramp | Hickam Ramp | HR | 133.600 |
 | HNL_S_RMP | Ramp | Honolulu Ramp | SR | 121.800 |
 | **HNL_GND** | Ground | Honolulu Ground | GC | 121.900 |
