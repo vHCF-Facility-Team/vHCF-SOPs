@@ -1,6 +1,6 @@
 # Preferred Routing
 
-??? info "Revision Info"
+!!! info "Revision Info"
     - Document Number: HCF 7110.2
     - Date: 01 Jan 2024
     - Revision Version: **A**
