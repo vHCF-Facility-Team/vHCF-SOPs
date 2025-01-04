@@ -1,4 +1,4 @@
-# HCF General Operating Procedures
+# General Operating Procedures
 
 !!! info "Revision Info"
 	- Document Number: HCF 1100.1
