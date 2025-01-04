@@ -11,7 +11,7 @@
     - VFR Altitude: AOB 1,500
     - Pattern Altitude: AOB 1,500
     - Missed Approach Instrument: As Published
-    - Missed Approach Visual: Visual 3,000, Heading 180
+    - Missed Approach Visual: 3,000, Heading 180
 
 ## Record of Revisions
 

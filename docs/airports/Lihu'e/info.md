@@ -1,13 +1,13 @@
-# Kona (KOA)
+# Lihu'e (LIH)
 
 !!! info "Revision Info"
-    - Document Number: KOA 7110.1
+    - Document Number: LIH 7110.1
     - Date: 01 Jan 2025
     - Revision Version: **D**
     - Editor: Dirk Thorben Kottenhahn, HCF FE
 
 !!! abstract "Quick Reference"
-    - IFR Departure Altitude: AMERY# 4,000; CRISI# 10,000; ONIZU# 5,000
+    - IFR Departure Altitude: 5,000
     - VFR Altitude: AOB 1,500
     - Pattern Altitude: AOB 1,500
     - Missed Approach Instrument: As Published

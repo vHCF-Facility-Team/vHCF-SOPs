@@ -1,17 +1,18 @@
-# Kona (KOA)
+# Molokai (MKK)
 
 !!! info "Revision Info"
-    - Document Number: KOA 7110.1
+    - Document Number: MKK 7110.1
     - Date: 01 Jan 2025
     - Revision Version: **D**
     - Editor: Dirk Thorben Kottenhahn, HCF FE
 
 !!! abstract "Quick Reference"
-    - IFR Departure Altitude: AMERY# 4,000; CRISI# 10,000; ONIZU# 5,000
+    - IFR Departure Altitude: HAPAI# 4,000; BLUSH#, KALAE#, MAULA# 5,000; KAUNAKAKAI AOA 1,800
     - VFR Altitude: AOB 1,500
-    - Pattern Altitude: AOB 1,500
+    - Pattern Altitude: AOB 2,000
     - Missed Approach Instrument: As Published
     - Missed Approach Visual: 4,000, Runway Heading
+    - Missed Approach Visual RW 05: 4,000, Heading 360
 
 ## Record of Revisions
 
