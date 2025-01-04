@@ -1,6 +1,6 @@
 # Honolulu (HNL)
 
-??? info "Revision Info"
+!!! info "Revision Info"
     - Document Number: HNL 7110.2
     - Date: 01 Jan 2025
     - Revision Version: **E**

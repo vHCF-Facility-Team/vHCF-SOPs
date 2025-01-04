@@ -1,6 +1,6 @@
 # Honolulu (HNL)
 
-??? info "Revision Info"
+!!! info "Revision Info"
     - Document Number: HCF 7110.1
     - Date: 01 Jan 2025
     - Revision Version: **F**
