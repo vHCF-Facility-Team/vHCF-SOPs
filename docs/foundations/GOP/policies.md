@@ -13,7 +13,7 @@ All home and visiting controllers who possess the rating of S1 and higher shall 
 
 **(i.e., to maintain currency in quarter 3, a controller must log on to a position for three hours between July 1st and September 30th)**
 
-One month prior to the end of each quarter, The ATM, DATM or TA will post a reminder on Discord for all members to obtain currency for the current quarter. If any member does not achieve currency, they will be removed from the roster. If after being removed, if a controller wishes to be reinstated on the HCF roster, they can make a request with any of the Senior Staff no less than 30 days from the date they were removed. The 30-day requirement can be waived at the discretion of the ATM/DATM on a case-by-case base. At that time, the Senior Staff will consider the request.
+If any member does not achieve currency, they will be removed from the roster. If after being removed a controller wishes to be reinstated on the HCF roster, they can make a request with any of the Senior Staff no less than 30 days from the date they were removed. The 30-day requirement can be waived at the discretion of the ATM/DATM on a case-by-case base. At that time, the Senior Staff will consider the request.
 
 Visiting Controllers from Outside VATUSA Division are required to have 50%+1 controlling hours in their Home Division in accordance with the VATSIM Transfer and Visiting Controller Policy §2.2
 
