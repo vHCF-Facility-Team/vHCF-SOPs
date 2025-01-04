@@ -29,10 +29,10 @@
 ## 3.4 - Missed Approach/Go-Arounds
 
 1. **PHNL (Honolulu)**
-   1. Advise aircraft on a visual missed approach in East ops to fly heading 150, climb and main-tain 5,000ft and expect vectors to final approach course by contacting TRACON.
+   1. Advise aircraft on a visual missed approach in East ops to fly heading 150, climb and maintain 5,000ft and expect vectors to final approach course by contacting TRACON.
    2. Advise aircraft on a visual missed approach in West ops to fly heading 180, climb and maintain 4,000ft and expect vectors to final approach course by contacting TRACON.
    3. Advise aircraft on an instrument approach to fly the published missed approach and to contact TRACON.
 2. **PHJR (Kalaeloa Airport - John Rogers Field)**
-   1. Advise aircraft on a visual missed approach in East ops to fly heading 230, climb and main-tain 3,000ft and expect vectors to final approach course by contacting TRACON.
+   1. Advise aircraft on a visual missed approach in East ops to fly heading 230, climb and maintain 3,000ft and expect vectors to final approach course by contacting TRACON.
    2. Advise aircraft on a visual missed approach in West ops to fly turn left heading of 040, climb and maintain 3,000ft and expect vectors to final approach course by contacting TRACON.
    3. Advise aircraft on an instrument approach to fly the published missed approach and to contact TRACON.
