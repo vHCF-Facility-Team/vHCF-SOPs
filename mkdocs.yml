@@ -33,7 +33,7 @@ theme:
 plugins:
   - search:
       lang: en
-  - awesome-pages
+  - awesome-nav
   - git-revision-date-localized:
       type: date
   - open-in-new-tab
