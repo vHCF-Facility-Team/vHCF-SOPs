@@ -196,8 +196,8 @@ Trainer Leave of Absences will be granted by the Training Administrator on a cas
 ### 6.1 Certifications
 
 1. After acceptance to the roster controllers are granted certifications commensurate with their rating. Controllers who held endorsements within HCF in the past six months will retain those endorsements.
-2. Transferring controllers who have been inactive for a period of greater than six months will be required to complete recertification training consummate with their rating.
+2. Transferring controllers who have been inactive for a period of greater than six months will be required to complete a live check-out session with an Instructor consummate with their rating.
 
 ### 6.2 HCF Tier 2 Endorsement
 
-1. The Tier 2 Endorsement may be obtained by successfully passing a GCAP checkout which consists of a live session with an Instructor after the student had some self-study on the relevant facility SOPs.
+1. The Tier 2 Endorsement may be obtained by completing a live checkout session with an Instructor which consists of a live session with an Instructor after the student had some self-study on the relevant facility SOPs.
