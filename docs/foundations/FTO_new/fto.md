@@ -38,6 +38,8 @@ All controllers staffing HCF positions must be certified per this policy.
 
 1. Training is scheduled through the Scheddy application, which can be found on <https://scheddy.vhcf.net/>. Booking a session serves as a reservation and the booked trainer will let the student know if the session will happen or not.
 2. A new request will be required for each session.
+3. A student is only allowed to do one (1) session a day.
+4. There is a minimum required time of twenty-four (24) hours between time of booking and start of session.
 
 ### 3.2 Training Expectations
 
