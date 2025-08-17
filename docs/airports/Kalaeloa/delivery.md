@@ -2,7 +2,11 @@
 
 ## 2.1 - Departure Instructions
 
-1. Initial altitude for all IFR Aircraft shall be 5,000 feet.
+1. Unless otherwise coordinated, Kalaeloa Tower must issue the following initial departure instructions:
+   1. Runway 4R/L – “Turn right Heading 220, climb and maintain 3,000.”
+   2. Runway 22L/R – “Fly runway Heading, climb and maintain 3,000.”
+   3. Runway 11 – “Turn right Heading 220, climb and maintain 3,000.”
+   4. JELIE# departures will follow charted procedures
 
 ## 2.2 - IFR Preferred Routing
 
@@ -20,4 +24,4 @@ JFR is not equipped for CPDLC and PDCs. As such PDCs shouldn’t be issued by JF
 
 ## 2.5 - Departure Frequency
 
-24/7: HNL_W_APP (118.300) (or HNL_E_APP 124.800 if West Approach offline)
+24/7: HNL_H_APP (118.300)

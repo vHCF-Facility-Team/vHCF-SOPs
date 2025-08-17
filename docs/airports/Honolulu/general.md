@@ -10,8 +10,9 @@
 | **HNL_GND** | Ground | Honolulu Ground | GC | 121.900 |
 | **HNL_N_TWR** | North Tower | Honolulu Tower | LC1 | 118.100 |
 | HNL_S_TWR | South Tower | Honolulu Tower | LC2 | 123.900 |
-| **HNL_E_APP** | East Approach | HCF Approach | EA | 124.800 |
-| HNL_W_APP | West Approach | HCF Approach | WA | 118.300 |
+| HNL_L_APP | "L" Departure | HCF Approach | LA | 124.800 |
+| HNL_V_APP | "V" Arrival/Departure | HCF Approach | VA | 119.100 |
+| **HNL_H_APP** | "H" Arrival | HCF Approach | HA | 118.300 |
 | HNL_ATIS | ATIS | Honolulu ATIS | - | 127.900 |
 
 <p style="text-align: center;">Bold designates Primary Position</p>
@@ -34,20 +35,31 @@
    4. Approach shall inform the CIC when the sector reconfiguration has been completed.
    5. Ensure the ATIS has been updated and reflects the proper status.
 
-### 1.2.3 - East Ops
+### 1.2.3 - General Runway Use
 
-1. Departure and Arrival runways are 8L, 8R and 4R.
-2. Heavy Aircraft must depart runway 8R.
-3. Assign and taxi all large Twin Turbo prop aircraft from the North Ramp to RWY 8R for departure
-4. Assign and taxi all twin prop and smaller aircraft from the south ramp to RWY 4R/4L TWY F for departure.
-
-### 1.2.4 - West Ops
-
-1. Arrival Runways are 26L and 22L.
-2. Departure Runways are 26R and 22L.
-3. This configuration should be chosen if the weather is in such a condition that East Ops is not viable anymore, see 2.1.1 for reference.
-
-### 1.2.5 - Event Ops
-
-1. Runways 4/8: All large aircraft and above (inclusive of turboprops) must be taxied to Runway 8R.
-2. Runways 22/26: All large aircraft and above (inclusive of turboprops) must be taxied to Runway 26R unless operational requirements require Runway 22L or Runway 26L (i.e., F22 to Runway 22L)
+1. RWY 4L/22R is a B-III runway. Aircraft are restricted to Approach Category B (<121 kts) and ADG III (wingspan <118 feet and tail height < 45 feet), e.g., AT72, DH8D.
+2. Arrivals RWY 4/8 Configuration between 0700-1900 HST:
+   1. To the maximum extent possible, all large turbojet aircraft and larger must be sequenced to RWY 8L.
+   2. Arrivals to RWY 8L must be at least 5 MIT, constant or increasing.
+3. Arrivals RWY 4/8 Configuration all hours:
+   1. Full LAHSO. Arrivals to RWY 4R:
+      1. When the successive aircraft is a jet, provide at least 5 MIT, constant or increasing.
+      2. When the successive aircraft is a prop, provide at least 3 MIT, constant or increasing.
+   2. RWY 8L Closed and No LAHSO in effect. Arrivals to RWY 4R/4L:
+      1. When the successive aircraft is a jet, provide at least 7 MIT, constant or increasing.
+      2. When the successive aircraft is a prop, provide at least 3 MIT, constant or increasing.
+   3. All VFR arrival routes and straight-in arrivals must be sequenced by Approach to their assigned runway.
+4. RWY 4/8 Configuration between 0900-1500 HST:
+   1. Assign and taxi all large Twin Turbo prop aircraft from the North ramp to RWY 8R for departure.
+   2. Assign and taxi all twin prop and smaller aircraft from the south ramp to RWY 4R at TWY F for departure.
+5. Arrivals RWY 22/26 Configuration between 0700-1900 HST:
+   1. All offshore arrivals on the RWY 26L final (to include the LDA, RNAV, visual, etc.) expect RWY 26L.
+   2. All VFR arrival routes and Charted Visual approaches are to RWY 22L except:
+      1. When RWY 22L is closed/unavailable, small propeller driven aircraft sequenced to RWY 22R.
+      2. When RWY 26R is unavailable to departures full length, small propeller driven aircraft sequenced to RWY 22R.
+6. All heavy and/or large four-engine turbojet aircraft must depart RWY 8R, 26R, 22L or 26L, except heavy air carrier aircraft bound for an Outer Island may depart RWY 8L.
+7. Aircraft requiring departures on RWY 8L due to operational necessity must obtain authorization from Tower and be able to turn initial heading before the end of runway.
+8. Do not authorize turbojet/large four-engine propeller driven aircraft to depart RWY 4R or 4L, except: during daylight hours only, turbojet aircraft with gross take-off weight less than 22,000 pounds may depart RWY 4R. Instruct aircraft to execute a right turn to their assigned departure heading prior to RWY 8L.
+9. Between the hours of 0900-1500 HST:
+   1.  RWY 4/8 – All large aircraft and above (inclusive of turboprops) must be taxied to RWY 8R.
+   2.  RWY 22/26 – All large aircraft and above (inclusive of turboprops) must be taxied to RWY 26R unless operational requirements require RWY 22L or RWY 26L (i.e., F22 to RWY 22L).

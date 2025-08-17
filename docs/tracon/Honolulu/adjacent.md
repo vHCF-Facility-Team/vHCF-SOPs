@@ -1,4 +1,4 @@
-# 6. Adjacent Airspace
+# 10. Adjacent Airspace
 
 1. The following facilities have airspace which are adjacent or within the HNL TRACON.
    1. HCF ENROUTE (Adjacent)

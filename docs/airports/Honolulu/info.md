@@ -2,8 +2,8 @@
 
 !!! info "Revision Info"
     - Document Number: HNL 7110.1
-    - Date: 01 Jan 2025
-    - Revision Version: **H**
+    - Date: 07 Jul 2025
+    - Revision Version: **I**
     - Editor: Dirk Thorben Kottenhahn, HCF FE
 
 ??? note "Abbreviations"
@@ -24,7 +24,7 @@
 ## Record of Revisions
 
 | Version | Date | Revision | Editor |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---|:---:|
 | A | 09 Sep 2022 | Initial Release | Joseph Kerr |
 | B | 01 Jan 2023 | Updated & Housekeeping | Dave Mayes |
 | C | 03 Mar 2023 | New Departure Heading Table | Dave Mayes |
@@ -33,3 +33,4 @@
 | F | 13 Jan 2024 | Clarification on Ramp Position | Dirk Thorben Kottenhahn |
 | G | 02 Feb 2024 | Clarification on North and South Tower Operations and Housekeeping to update to new AIRAC | Dirk Thorben Kottenhahn |
 | H | 01 Jan 2025 | Move to Mkdocs | Dirk Thorben Kottenhahn |
+| I | 07 Jul 2025 | Position Overview<br>General Runway Use<br>CD - Preferred Routes<br>CD - Standard IFR Departures<br>CD - VFR Departures<br>CD - Departure Frequencies<br>GC - Standardized Taxi Routes<br>GC - Designated Departure Points<br>LC - Airspace<br>LC - LUAW<br>LC - DVA<br>LC - VFR Pattern Altitudes<br>LC - Closed Pattern Operations<br>LC - Helicopter Operations<br>LC - Runway Configurations<br>ODO | Dirk Thorben Kottenhahn |

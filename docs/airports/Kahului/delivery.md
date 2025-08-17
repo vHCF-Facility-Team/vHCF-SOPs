@@ -29,3 +29,12 @@ OGG is not equipped for CPDLC and PDCs. As such PDCs shouldn’t be issued by OG
 |:---:|:---:|
 | North Ops | OGG_N_APP |
 | South Ops | OGG_S_APP |
+
+## 2.6 - Helicopter Operating Procedures
+
+1. Frequency assignments for departing helicopters are based upon the following:
+   1. Eastbound tour helicopters assigned the Crater One Departure are issued departure frequency 119.500. Eastbound tour helicopters departing north of Haleakala Highway and requesting/requiring radar service beyond tower airspace are issued departure frequency 120.200.
+   2. Westbound tour helicopters to Waihe’e, Ia’o, and Waikapu Valleys are assigned tower frequency 118.700, as radar service and radio communications are not available in the valley due to coverage.
+   3. Helicopters not desiring Class C services beyond the tower’s designated Class C airspace are instructed to remain on tower frequency after departure.
+   4. All other helicopters that will receive Class C services beyond the tower’s designated Class C airspace are assigned a computer-generated VFR beacon code, and issued the departure frequency of the approach sector they will enter first.
+2. Assign **all** eastbound VFR helicopters at or below 2,000 feet during standard flow (runways 2/5) operations.

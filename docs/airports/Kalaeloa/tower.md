@@ -15,12 +15,6 @@
 3. Aircraft must be airborne within 5 minutes after receiving a release, If unable, Tower will request a new release.
 4. LC shall transfer communication to HNL_W_APP as soon as feasible after departure.
 5. VFR departures remaining within the class “D” airspace shall remain on the tower frequency and stay below the Class B.
-6. IFR departures shall be assigned departure instructions based on the following IFR Departure Headings table.
-
-| SID | Heading |
-|---|---|
-| JELIE# | RNAV to JELIE |
-| No SID | 180 |
 
 ## 4.3 - Arrival Procedures
 

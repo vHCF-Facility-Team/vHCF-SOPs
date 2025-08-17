@@ -1,6 +1,10 @@
 # 5. Arrival Procedures/STAR Descents
 
-## 5.1 - Standard Terminal Arrival Routes
+## 5.1 - General
+
+1. HCF Approach must clear aircraft on the downwind for the visual approach RWY 02 to turn base leg over or south of the shoreline landing RWY 02.
+
+## 5.2 - Standard Terminal Arrival Routes
 
 1. The following Standard Terminal Arrival Routes (STARS) shall be utilized for aircraft arriving at Kahului (OGG).
 2. The preferred arrival from the Southeast or the Southwest is the CAMPS# arrival
@@ -13,7 +17,7 @@
 
 Bold indicates RNAV STAR.
 
-## 5.2 - TRACON Entry Altitudes
+## 5.3 - TRACON Entry Altitudes
 
 1. The following Descent Instructions will be assigned from ENROUTE and can be the expected Entry Altitudes for aircraft entering the TRACON.
 2. If deviations from these Entry Altitudes are required, TRACON can expect coordination from HCF Center.
@@ -24,7 +28,7 @@ Bold indicates RNAV STAR.
 | LAVAS# | Descend Via |
 | CAMPS# | KEIKI @ or above 3,000<br>HARPO @ or above 4,000 |
 
-## 5.3 - Runway/Approach Assignments
+## 5.4 - Runway/Approach Assignments
 
 1. The initial TRACON controller will assign a Runway/Approach to expect.
 2. Runway assignments will be as follows:
