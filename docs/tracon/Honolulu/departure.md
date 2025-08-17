@@ -1,6 +1,6 @@
-# 4. Departure Procedures
+# 7. Departure Procedures
 
-## 4.1 - Departure Flow Description
+## 7.1 - Departure Flow Description
 
 1. Departing aircraft will climb beneath the arrival corridor (downwind) for RWY 8L or RWY 26L to 5,000ft.
 2. Arrivals in the arrival corridor (downwind) will be descending to 6,000ft.

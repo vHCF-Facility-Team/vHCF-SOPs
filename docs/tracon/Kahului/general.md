@@ -3,12 +3,13 @@
 ## 3.1 - Airspace
 
 1. Provide air traffic control service up to and including 16,000 feet.
+2. Narrowband Operations allow 3NM separation between aircraft.
 
-![OGG Airspace](img/airspace.jpg)
+![OGG APP Airspace](img/airspace.png)
 
 ## 3.2 - Handoffs
 
-1. OGG ATCT is NOT a radar tower. Radar handoffs shall not be used for aircraft entering OGG ATCTs area of responsibility. Any other ATCTs within OGG TRACON shall not receive a radar handoff for arriving aircraft.
+1. OGG ATCT is a limited radar tower. Radar handoffs shall be used for aircraft entering OGG ATCTs area of responsibility. Any other ATCTs within OGG TRACON shall not receive a radar handoff for arriving aircraft.
 
 ## 3.3 - VFR Aircraft
 
@@ -32,3 +33,7 @@
 1. For aircraft on an **instrument** approach, OGG ACTC will instruct aircraft to fly the pub-lished missed approach and to contact TRACON.
 2. For aircraft on a **visual** missed approach in North Flow, ATCT will instruct aircraft to fly heading 360, climb and maintain 4,000ft and contact TRACON.
 3. For aircraft on a **visual** missed approach in South Flow, ATCT will instruct aircraft to fly heading 185, climb and maintain 5,000ft to contact TRACON.
+4. Alternatively, the following vectors can be given:
+   1. RWY 2: Authorized headings 316 CW 050 No prominent obstacles.
+   2. RWY 5: Authorized headings 312 CW 040 No prominent obstacles.
+   3. RWY 20: Authorized heading 185 No prominent obstacles

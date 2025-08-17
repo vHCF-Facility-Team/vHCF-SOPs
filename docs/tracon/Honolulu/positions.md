@@ -27,8 +27,9 @@ Open from 0600-2200 HST (1600-0800Z). Between the hours of 2200-0600 HST, contac
 
 | Callsign           | Position          | Radio Name           | Position ID | Frequency                       |
 | :------------------: | :----------------: | :------------------: | :-------------: | :---------------------------: |
-| **HNL_E_APP** | East Approach | HCF Approach | EA | 124.800 |
-| HNL_W_APP | West Approach | HCF Approach | WA | 118.300 |
+| HNL_L_APP | "L" Departure | HCF Approach | LA | 124.800 |
+| HNL_V_APP | "V" Arrival/Departure | HCF Approach | VA | 119.100 |
+| **HNL_H_APP** | "H" Arrival | HCF Approach | HA | 118.300 |
 
 ## 1.4 ATIS
 
@@ -36,4 +37,3 @@ Open from 0600-2200 HST (1600-0800Z). Between the hours of 2200-0600 HST, contac
 | :------------------: | :----------------: | :------------------: | :---------------------------: |
 | HNL_ATIS | ATIS | Honolulu ATIS  | 127.900 |
 | JFR_ATIS | ATIS | Kalaeloa ATIS  | 119.800 |
-

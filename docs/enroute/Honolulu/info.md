@@ -2,8 +2,8 @@
 
 !!! info "Revision Info"
     - Document Number: HCF 7110.1
-    - Date: 01 Jan 2025
-    - Revision Version: **F**
+    - Date: 07 Jul 2025
+    - Revision Version: **G**
     - Editor: Dirk Thorben Kottenhahn, HCF FE
 
 ## Record of Revisions
@@ -16,3 +16,4 @@
 | D | 13 Nov 2023 | New I.D. Codes Housekeeping | Dave Mayes |
 | E | 03 Jan 2024 | Housekeeping | Dirk Thorben Kottenhahn |
 | F | 01 Jan 2025 | Move to Mkdocs | Dirk Thorben Kottenhahn |
+| G | 07 Jul 2025 | New Sector Diagram<br>Sector Descriptions | Dirk Thorben Kottenhahn |

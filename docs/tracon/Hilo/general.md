@@ -2,7 +2,9 @@
 
 ## 2.1 - Airspace
 
-1. Provide air traffic control service within the depicted airspace up to and including 15,000 feet.
+1. Provide air traffic control service within the depicted airspace up to and including 14,000 feet.
+
+![Hilo Airspace](../../airports/Hilo/img/hilo-airspace.png)
 
 ## 2.2 - Responsibilities
 

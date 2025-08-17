@@ -1,15 +1,19 @@
 # 3. Ground Control
 
-## Responsibilities
+## 3.1 - Responsibilities
 
-- GC does not authorize pushbacks or startups unless the aircraft pushing back will enter a controlled area during a pushback.
-- GC shall ensure that aircraft are squawking their assigned beacon code prior to the aircraft being handed off to Tower.
-- GC shall ensure that aircraft are properly sequenced by their direction of travel and A/C type.
-- GC shall ensure that all RWY crossings are coordinated with LC unless blanket crossings are in effect.
+1. GC is responsible for the movement of all aircraft on the movement area to the runways.
+2. GC does not authorize pushbacks or startups unless the aircraft pushing back will enter a controlled area during a pushback.
+3. GC shall ensure that aircraft are squawking their assigned beacon code prior to the aircraft being handed off to Tower.
+4. GC shall ensure that aircraft are properly sequenced by their direction of travel and A/C type.
+5. GC shall ensure that all RWY crossings are coordinated with LC unless blanket crossings are in effect.
+6. **Saipan Airport**
+   1. GC may authorize local SVFR operations within the Saipan Class D surface area without prior coordination with Center.
+   2. Prior to issuing a clearance, GC must coordinate Special VFR departures exiting the Saipan Class D surface area with Center.
 
-## GC/LC Transfer of Control
+## 3.2 - GC/LC Transfer of Control
 
-- During normal or light traffic, aircraft shall be instructed to contact LC.
-- During high traffic, aircraft shall be instructed to monitor the LC frequency when requested by LC.
-  - GC shall either point out aircraft to LC when a pilot was given the monitor instruction.
-  - Or GC may push a flight strip to LC.
+1. During a period of normal or light traffic, GC shall instruct aircraft to contact LC on their respective frequency (refer to Positions)
+2. During a period of high traffic, LC may request GC to instruct aircraft to monitor their respective frequency.
+   1. GC shall utilize the clients “point out” feature to the appropriate LC controller to notify LC when a pilot has been given the monitor instruction.
+   2. Alternatively, if agreed upon between the GC and LC controllers, GC may push a flight strip to the LC controller.

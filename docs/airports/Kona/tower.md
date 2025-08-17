@@ -13,6 +13,9 @@
 2. Departure releases are not required at Kona, unless sector HNL_05_CTR is on frequency during an event or other busy time period at HCF. Center may request releases or rolling releases from LC.
 3. LC shall transfer communication to HCF Center as soon as feasible after departure.
 4. VFR departures remaining within the class “D” airspace shall remain on the tower frequency.
+5. Diverse Vector Area (DVA)
+   1. RWY 17: 165° CW 350° out to 20 NM
+   2. RWY 35: 175° CW 005° out to 20 NM
 
 ## 4.3 - Arrival Procedures
 
@@ -23,6 +26,9 @@
 
 1. Advise aircraft on an **instrument** approach to fly the published missed approach and to contact HNL_05_CTR.
 2. Advise aircraft on a **visual** approach fly runway heading, climb and maintain 4,000ft and contact HNL_05_CTR.
+3. Alternatively, the following vectors can be given:
+   1. RWY 17: Authorized headings 165 CW 350. No prominent obstacles.
+   2. RWY 35: Authorized headings 175 CW 005. No prominent obstacles.
 
 ## 4.5 - Closed Traffic
 

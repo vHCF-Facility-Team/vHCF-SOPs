@@ -4,6 +4,10 @@ nav:
     - positions.md
     - airports.md
     - general.md
+    - lradar.md
+    - vradar.md
+    - hradar.md
     - departure.md
     - arrival.md
+    - coordination.md
     - adjacent.md
