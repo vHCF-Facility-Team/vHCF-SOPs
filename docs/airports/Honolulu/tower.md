@@ -21,6 +21,7 @@
    6. Runway 4L/22R and 4R/22L or 4L/22R and 8L/26R at TWY E
 5. LC has responsibility for all taxiways between runways 4L/22R, 4R/22L and taxiway C between runway 8L/26R and 4R/22L.
 6. LC has responsibility for active runway selection based on weather conditions and with section 1 in mind.
+6. LC has responsibility for active runway selection based on weather conditions and with section 1 in mind.
 7. IFR circling approaches are not authorized north of the airport
 
 ## 4.2 - Airspace
