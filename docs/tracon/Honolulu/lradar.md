@@ -28,8 +28,8 @@
 3. Provide departure control services to all eastbound Class B departures.
    1. RWY 4/8 configuration:
       1. Freeway departure.
-      2. Shoreline departure.
-      3. Punchbowl departure.
+      3. Shoreline departure.
+      4. Punchbowl departure.
    2. RWY 22/26 configuration:
       1. Kona departure.
 4. Provide Class B airspace services and/or traffic advisories to VFR aircraft overflying Honolulu from east to west; coordinate with V/H radar as appropriate.
@@ -58,38 +58,38 @@
 ## 4.4 - Handoffs
 
 1. HCF Sector 3 - 124.100:
-   1. MKK SID
-   2. PALAY SID, MKK Transition
-   3. JRF Departures via MKK VORTAC
-   4. JRF Departures via JELIE SID
-   5. KOKO HEAD
+    1. MKK SID
+    2. PALAY SID, MKK Transition
+    3. JRF Departures via MKK VORTAC
+    4. JRF Departures via JELIE SID
+    5. KOKO HEAD
 2. HCF Sector 4 - 119.300:
-   1. PALAY SID, LNY Transition
-   2. KEAHI SID (RWY 22/26 only)
-   3. JRF Departures via V2
-   4. KOKO HEAD SID, PALAY Transition
+    1. PALAY SID, LNY Transition
+    2. KEAHI SID (RWY 22/26 only)
+    3. JRF Departures via V2
+    4. KOKO HEAD SID, PALAY Transition
 3. NGF
-   1. Tower – 120.700
-   2. Approach – 125.000
+    1. Tower – 120.700
+    2. Approach – 125.000
 
 ## 4.5 - Traffic Flow
 
 1. From HNL Approach:
-   1. MKK SID/JRF departures:
-      1. Inter-Island departures direct MKK.
-      2. ZIGIE, APACK or CLUTS heading 060° to 090°. Scratch pad inputs of headings may be used in-lieu of verbal coordination if other than a 060°.
-      3. EBBER direct EBBER.
-      4. PULPS, FITES, SAYTO direct MKK.
-      5. Climbing to 16,000’ or lower assigned altitude.
-   2. RWY 4/8 departures - PALAY SID/V2:
-      1. Jets climbing to 13,000' or filed altitude, whichever is lower.
-      2. Props climbing to 9,000' or filed altitude, whichever is lower.
-   3. RWY 22/26 departures:
-      1. PALAY SID/V2, all aircraft climbing to 7,000' or filed altitude, no higher than 16,000’.
-      2. KEAHI SID, all aircraft climbing to 5,000'.
-   4. JRF departures direct PALAY, JELIE SID or radar vectors to join V2 prior to exiting the HNL TAB. Assign the same altitudes as above.
-   5. HHI departures via the KOKO HEAD SID, climbing to 16,000’or assigned altitude, whichever is lower.
+    1. MKK SID/JRF departures:
+       1. Inter-Island departures direct MKK.
+       2. ZIGIE, APACK or CLUTS heading 060° to 090°. Scratch pad inputs of headings may be used in-lieu of verbal coordination if other than a 060°.
+       3. EBBER direct EBBER.
+       4. PULPS, FITES, SAYTO direct MKK.
+       5. Climbing to 16,000’ or lower assigned altitude.
+    2. RWY 4/8 departures - PALAY SID/V2:
+       1. Jets climbing to 13,000' or filed altitude, whichever is lower.
+       2. Props climbing to 9,000' or filed altitude, whichever is lower.
+    3. RWY 22/26 departures:
+       1. PALAY SID/V2, all aircraft climbing to 7,000' or filed altitude, no higher than 16,000’.
+       2. KEAHI SID, all aircraft climbing to 5,000'.
+    4. JRF departures direct PALAY, JELIE SID or radar vectors to join V2 prior to exiting the HNL TAB. Assign the same altitudes as above.
+    5. HHI departures via the KOKO HEAD SID, climbing to 16,000’or assigned altitude, whichever is lower.
 2. To HNL Approach:
-   1. HNL arrivals cross LOKIE at 4,000.’
-   2. HHI arrivals V8 HNL direct HHI; cross LOKIE at 6,000.’
-   3. HCF Center Sector 3 can enter the Honolulu Terminal Area Holding Pattern Airspace Area (HPASA) with aircraft that have been issued holding instructions and have an associated full data block at LOKIE prior to a radar handoff completion.
+    1. HNL arrivals cross LOKIE at 4,000.’
+    2. HHI arrivals V8 HNL direct HHI; cross LOKIE at 6,000.’
+    3. HCF Center Sector 3 can enter the Honolulu Terminal Area Holding Pattern Airspace Area (HPASA) with aircraft that have been issued holding instructions and have an associated full data block at LOKIE prior to a radar handoff completion.
