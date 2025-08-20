@@ -28,8 +28,8 @@
 3. Provide departure control services to all eastbound Class B departures.
    1. RWY 4/8 configuration:
       1. Freeway departure.
-      2. Shoreline departure.
-      3. Punchbowl departure.
+      3. Shoreline departure.
+      4. Punchbowl departure.
    2. RWY 22/26 configuration:
       1. Kona departure.
 4. Provide Class B airspace services and/or traffic advisories to VFR aircraft overflying Honolulu from east to west; coordinate with V/H radar as appropriate.

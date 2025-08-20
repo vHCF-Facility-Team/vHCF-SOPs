@@ -17,15 +17,18 @@
 
 ## 3.2 - Sectorization
 
-1. The primary “combined” radar position shall be Honolulu East Approach (HE). No other sectors should be staffed until the “combined” position is already in use.
-2. Once HE is in use, HE may delegate a portion of its airspace to Honolulu West Approach (HW).
-3. During East Ops:
-   1. HE will handle all departures and feed aircraft to HW.
-   2. HW will be the final sector for all arrivals into HNL.
-4. During West Ops:
-   1. HW will handle all departures and feed aircraft to HE.
-   2. HE will be the final sector for all arrivals into HNL.
-5. No matter the Ops at HNL, each sector will be responsible for the satellite fields within their designated airspace.
+1. The primary “combined” radar position shall be Honolulu H Arrival (HH). No other sectors should be staffed until the “combined” position is already in use.
+2. Once HH is in use, HH may delegate a portion of its airspace to Honolulu L Departure (HL) and V Arrival (HV).
+3. When splitting, HL needs to be opened first and only after it HV.
+4. During East Ops:
+   1. HH will be the final sector all arrivals into HNL RW 8 and feed aircraft to HV.
+   2. HV will be the final sector for all arrivals into HNL RW 4.
+   3. HL will handle all departures from HNL.
+5. During West Ops:
+   1. HH will be the final sector all arrivals into HNL RW 22/26.
+   2. HV will be the entry sector for all VFR arrivals into HNL from the north-west, north, north-east and east.
+   3. HL will handle all departures from HNL.
+6. No matter the Ops at HNL, each sector will be responsible for the satellite fields within their designated airspace.
 
 ## 3.3 - Departure Releases
 
