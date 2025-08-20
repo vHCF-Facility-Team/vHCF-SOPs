@@ -15,17 +15,17 @@
 
 1. Instruct departing VFR aircraft to maintain VFR at or below 1,500.
 2. VFR aircraft not remaining within the pattern and requesting flight following will be given a de-parture frequency.
-   1. VFR aircraft departing north shall receive ON as their departure frequency.
-   2. VFR aircraft departing south shall receive OS as their departure frequency.
+    1. VFR aircraft departing north shall receive ON as their departure frequency.
+    2. VFR aircraft departing south shall receive OS as their departure frequency.
 3. Assign all VFR aircraft leaving the Class C airspace a unique beacon code.
 
 ## 3.4 - Departure Releases
 
 1. Unless otherwise coordinated, all airports within OGG TRACON shall request departure releases from OGG TRACON for all IFR departures.
 2. Departure Releases AND rolling calls will include the following content:
-   1. Aircraft Callsign
-   2. SID or Initial Waypoint
-   3. Departure Runway
+    1. Aircraft Callsign
+    2. SID or Initial Waypoint
+    3. Departure Runway
 3. OGG TRACON may opt to provide OGG ATCT with blanket releases. If Blanket Releases are in effect, a Rolling Call will be sent to TRACON for each IFR departure.
 
 ## 3.5 - Missed Approach/Go-Arounds
@@ -34,6 +34,6 @@
 2. For aircraft on a **visual** missed approach in North Flow, ATCT will instruct aircraft to fly heading 360, climb and maintain 4,000ft and contact TRACON.
 3. For aircraft on a **visual** missed approach in South Flow, ATCT will instruct aircraft to fly heading 185, climb and maintain 5,000ft to contact TRACON.
 4. Alternatively, the following vectors can be given:
-   1. RWY 2: Authorized headings 316 CW 050 No prominent obstacles.
-   2. RWY 5: Authorized headings 312 CW 040 No prominent obstacles.
-   3. RWY 20: Authorized heading 185 No prominent obstacles
+    1. RWY 2: Authorized headings 316 CW 050 No prominent obstacles.
+    2. RWY 5: Authorized headings 312 CW 040 No prominent obstacles.
+    3. RWY 20: Authorized heading 185 No prominent obstacles

@@ -32,8 +32,8 @@ Bold indicates RNAV STAR.
 
 1. The initial TRACON controller will assign a Runway/Approach to expect.
 2. Runway assignments will be as follows:
-   1. North Ops - Runway 02
-   2. South Ops - Runway 20
+    1. North Ops - Runway 02
+    2. South Ops - Runway 20
 3. Different runways can be assigned with coordination.
 4. Standard approach during North Ops is ILS
 5. Standard approach during South Ops is RNAV.

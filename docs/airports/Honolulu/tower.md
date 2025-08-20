@@ -3,26 +3,26 @@
 ## 4.1 - General
 
 1. Splitting into North and South Tower is only allowed when the following requirements are fulfilled:
-   1. The following positions must be staffed:
-      1. North Tower
-      2. Ground
-      3. Clearance Delivery
-   2. Runway 8R/26L must be open.
-   3. All landing and departure clearances must be on the frequency of the controller who has responsibility for the landing or departing aircraft.
-   4. North Tower must quick look South Tower and vise-versa.
+    1. The following positions must be staffed:
+        1. North Tower
+        2. Ground
+        3. Clearance Delivery
+    2. Runway 8R/26L must be open.
+    3. All landing and departure clearances must be on the frequency of the controller who has responsibility for the landing or departing aircraft.
+    4. North Tower must quick look South Tower and vise-versa.
 2. LC may delegate that portion of a closed runway that does not intersect with an active runway to GC for the purpose to crossing.
 3. Hold lines between runways 4L/22R and 4R/22L are 20 feet apart. Do not clear an aircraft to depart behind an aircraft holding between the runways. Do not clear an aircraft to depart behind an aircraft holding between the runways.
 4. Multiple runway crossings with a single clearance are authorized for the following:
-   1. Runway 4R/22L and 4L/22R at TWY F
-   2. Runway 4R/22L and 4L/22R at TWY D
-   3. Runway 4R/22L and 4L/22R at TWY E
-   4. Runway 4R/22L and 4L/22R at TWY C
-   5. Runway 4L/22R and 8L/26R at TWY K
-   6. Runway 4L/22R and 4R/22L or 4L/22R and 8L/26R at TWY E
+    1. Runway 4R/22L and 4L/22R at TWY F
+    2. Runway 4R/22L and 4L/22R at TWY D
+    3. Runway 4R/22L and 4L/22R at TWY E
+    4. Runway 4R/22L and 4L/22R at TWY C
+    5. Runway 4L/22R and 8L/26R at TWY K
+    6. Runway 4L/22R and 4R/22L or 4L/22R and 8L/26R at TWY E
 5. LC has responsibility for all taxiways between runways 4L/22R, 4R/22L and taxiway C between runway 8L/26R and 4R/22L.
 6. LC has responsibility for active runway selection based on weather conditions and with section 1 in mind.
-6. LC has responsibility for active runway selection based on weather conditions and with section 1 in mind.
-7. IFR circling approaches are not authorized north of the airport
+7. LC has responsibility for active runway selection based on weather conditions and with section 1 in mind.
+8. IFR circling approaches are not authorized north of the airport
 
 ## 4.2 - Airspace
 
@@ -48,13 +48,13 @@ See Honolulu TRACON for Diagrams.
 3. LUAW procedures are not authorized when the ceiling is below 800ft or visibility below 2nm.
 4. LUAW not authorized on RWY 22R.
 5. LUAW authorized on RWY 4R only when RWY 4L is closed.
-   1. If an aircraft is cleared to LUAW on RWY 4R full-length, do not issue a landing clearance to any aircraft inbound to RWY 4R until the departing aircraft has been cleared for takeoff.
+    1. If an aircraft is cleared to LUAW on RWY 4R full-length, do not issue a landing clearance to any aircraft inbound to RWY 4R until the departing aircraft has been cleared for takeoff.
 6. Do not authorize aircraft to simultaneously LUAW on the same runway.
 7. LUAW authorized on RWY 4L at any time, however, do not issue a landing clearance to any aircraft inbound to RWY 4L until the departing aircraft has been cleared for takeoff.
 8. LUAW authorized on RWY 22L when any portion of RWY 26R or RWY 26L are closed or unavailable, however, do not issue a landing clearance to any aircraft inbound to RWY 22L until the departing aircraft has been cleared for takeoff.
 9. **NOTE:** LUAW of heavy aircraft on RWY 26R while arriving or departing RWY 22L is not recommended if the aircraft is entering RWY 26R from the south. Heavy aircraft may encroach on the RSA for RWY 22L.
 10. Aircraft cleared to LUAW on RWY 8R must be issued traffic landing RWY 4R if aircraft will overfly RWY 8R prior to the RWY 8R departure.
-    1.  EXAMPLE: “Hawaiian Four Fifty-Nine, Runway Eight Right, line up and wait. Traffic Gulfstream Five, on three-mile final Runway Four Right.”
+    1. EXAMPLE: “Hawaiian Four Fifty-Nine, Runway Eight Right, line up and wait. Traffic Gulfstream Five, on three-mile final Runway Four Right.”
 11. Aircraft arriving RWY 22R must be issued traffic authorized to LUAW on RWY 22L.
 12. Aircraft arriving RWY 4R must be issued traffic authorized to LUAW on RWY 4L.
 13. LUAW must not be used when there is no-radio (NORDO) arrival aircraft in tower’s airspace.
@@ -73,13 +73,13 @@ See Honolulu TRACON for Diagrams.
 ### 4.5.1 - Diverse Vector Areas
 
 1. DVA must be coordinated with the appropriate Approach Controller.
-   1. RWY 4L/4R: 130° CW 222° (within 10 NM)
-   2. RWY 8L: 120° CW 256° (within 10 NM)
-   3. RWY 8R: 120° CW 259° (within 10 NM)
-   4. RWY 22L: 108° CW 260° (within 10 NM)
-   5. RWY 22R: 120° CW 259° (within 10 NM)
-   6. RWY 26L: 099° CW 267° (within 10 NM)
-   7. RWY 26R: 108° CW 267° (within 10 NM)
+    1. RWY 4L/4R: 130° CW 222° (within 10 NM)
+    2. RWY 8L: 120° CW 256° (within 10 NM)
+    3. RWY 8R: 120° CW 259° (within 10 NM)
+    4. RWY 22L: 108° CW 260° (within 10 NM)
+    5. RWY 22R: 120° CW 259° (within 10 NM)
+    6. RWY 26L: 099° CW 267° (within 10 NM)
+    7. RWY 26R: 108° CW 267° (within 10 NM)
 
 ## 4.6 - Arrival Procedures
 
@@ -89,21 +89,21 @@ See Honolulu TRACON for Diagrams.
 4. Wide-body and four engine turbojets landing on 4R are not allowed to turn left onto taxiway K without LC approval.
 5. Do not allow aircraft on final to RWY 4L or 4R, or Sealane 4/8, to overfly aircraft taxiing on TWY R or RT.
 6. Pattern altitudes:
-   1. VFR aircraft (small) from the south, pattern altitude is 1,000'.
-   2. VFR aircraft (small) from the northwest, pattern altitude is 800'.
-   3. VFR aircraft, large or heavy, 1,500'.
-   4. Overhead approaches must be conducted in accordance with the LOA.
-   5. Sealane Operations.
-      1. North arrivals: 800'.
-      2. South arrivals: small 1,000’, large 1,500'.
+    1. VFR aircraft (small) from the south, pattern altitude is 1,000'.
+    2. VFR aircraft (small) from the northwest, pattern altitude is 800'.
+    3. VFR aircraft, large or heavy, 1,500'.
+    4. Overhead approaches must be conducted in accordance with the LOA.
+    5. Sealane Operations.
+        1. North arrivals: 800'.
+        2. South arrivals: small 1,000’, large 1,500'.
 
 ## 4.7 - Departure Releases
 
 1. LC will request a departure release for all IFR departures unless a blanket release is authorized by the TRACON controller.
 2. Departure releases will include:
-   1. Aircraft Callsign
-   2. SID or Initial Waypoint
-   3. Departure Runway
+    1. Aircraft Callsign
+    2. SID or Initial Waypoint
+    3. Departure Runway
 
 ## 4.8 - Missed Approaches/Go-Arounds
 
@@ -137,34 +137,34 @@ See Honolulu TRACON for Diagrams.
 2. Heavy jet touch-and-go operations are authorized on RWY 8R only, traffic permitting and after proper coordination.
 3. Large turbojet aircraft may conduct low approaches to RWY 4R to execute a right turn to their assigned heading prior to RWY 8L. Touch-and-go operations are not authorized on RWY 4R for large turbojet aircraft.
 4. Large propeller driven aircraft may conduct touch-and-go operations on RWY 4R to execute a right turn to their assigned heading prior to RWY 8L.
-   1. Overhead approaches are authorized for RWY 8L (left break), RWY 26L (left break) and RWY 4R (right break).
-   2. Sealane operations. The following conditions must be met prior to using sealanes:
-      1. Weather must be VFR.
-      2. Operations must be conducted during daylight hours only.
-      3. Operations must be confined to landing/departures only.
-      4. Arrival/departure routes must adhere to current arrival/departure procedures.
-   3. LC1 is responsible for visibility observations as required. 
-   4. Instruct aircraft to hold short of the ILS Critical Area when holding aircraft north of RWY 8L/26R (both configurations) on TWY C.
+    1. Overhead approaches are authorized for RWY 8L (left break), RWY 26L (left break) and RWY 4R (right break).
+    2. Sealane operations. The following conditions must be met prior to using sealanes:
+        1. Weather must be VFR.
+        2. Operations must be conducted during daylight hours only.
+        3. Operations must be confined to landing/departures only.
+        4. Arrival/departure routes must adhere to current arrival/departure procedures.
+    3. LC1 is responsible for visibility observations as required. 
+    4. Instruct aircraft to hold short of the ILS Critical Area when holding aircraft north of RWY 8L/26R (both configurations) on TWY C.
 
 ## 4.11 - Helicopter Operations
 
 1. RWY 4/8 configuration.
-   1. Departures must be switched to the appropriate departure controller. Reminder: SFAR 71 requires air tour operators (including helicopters) to operate at or above 1500' AGL except during takeoff, landing or operating in compliance with ATC.
-   2. Shoreline arrivals must be approved for Lifeguard, Police Department, Fire Department, Coast Guard and Search and Rescue helicopters to accomplish mission requirements.
+    1. Departures must be switched to the appropriate departure controller. Reminder: SFAR 71 requires air tour operators (including helicopters) to operate at or above 1500' AGL except during takeoff, landing or operating in compliance with ATC.
+    2. Shoreline arrivals must be approved for Lifeguard, Police Department, Fire Department, Coast Guard and Search and Rescue helicopters to accomplish mission requirements.
 2. RWY 22/26 configuration.
-   1. Helicopters must be cleared via West Loch or Kona Departure.
-      1. Kona Departure: After departure, remain over the runway until departure end, then turn left heading 180, climb and maintain 1500 feet. Expect radar vectors to avoid traffic on RWY 26L LDA final approach course. Helicopters depart the south ramp and proceed direct to HNL VORTAC; do not overfly any runways. From HNL VORTAC, fly heading 180, climb and maintain 1000 feet.
-   2. Lifeguard, Police Department, Fire Department, Coast Guard and Search and Rescue helicopter operations must be cleared to depart or into Class B airspace as requested to accomplish mission requirements.
-   3. Tower may approve Shoreline arrivals, traffic permitting.
-   4. Departures must be switched to the appropriate departure controller.
-   5. V assumes control of departing helicopters during RWY 22/26 configuration for turns to Ford Island upon frequency change from the Tower.
+    1. Helicopters must be cleared via West Loch or Kona Departure.
+        1. Kona Departure: After departure, remain over the runway until departure end, then turn left heading 180, climb and maintain 1500 feet. Expect radar vectors to avoid traffic on RWY 26L LDA final approach course. Helicopters depart the south ramp and proceed direct to HNL VORTAC; do not overfly any runways. From HNL VORTAC, fly heading 180, climb and maintain 1000 feet.
+    2. Lifeguard, Police Department, Fire Department, Coast Guard and Search and Rescue helicopter operations must be cleared to depart or into Class B airspace as requested to accomplish mission requirements.
+    3. Tower may approve Shoreline arrivals, traffic permitting.
+    4. Departures must be switched to the appropriate departure controller.
+    5. V assumes control of departing helicopters during RWY 22/26 configuration for turns to Ford Island upon frequency change from the Tower.
 3. Arrivals.
-   1. Helicopters inbound from the west/interchange must be cleared by Approach to hold at Ford Island.
-   2. Helicopters from the east must be cleared by Approach to Punchbowl.
-   3. Tower assumes control of the helicopters at Ford Island, Punchbowl, or after frequency change from Approach for sequence to the South Ramp. If holding is required, advise the appropriate V/L radar controller.
+    1. Helicopters inbound from the west/interchange must be cleared by Approach to hold at Ford Island.
+    2. Helicopters from the east must be cleared by Approach to Punchbowl.
+    3. Tower assumes control of the helicopters at Ford Island, Punchbowl, or after frequency change from Approach for sequence to the South Ramp. If holding is required, advise the appropriate V/L radar controller.
 4. Helicopters must be positively controlled to ensure that they are clear of/do not overfly any runway that has an aircraft that has been:
-   1. Cleared for takeoff, unless specific instructions are issued that will ensure that the helicopter will pass behind the aircraft operating on the runway, or
-   2. Cleared to land and is over or past the landing threshold, unless specific instructions are issued that will ensure that the helicopter will pass behind the aircraft operating on the runway. A helicopter may cross in front of an arrival aircraft that has reached taxi speed (has acknowledged runway exiting instructions or is observed turning off the arrival runway).
+    1. Cleared for takeoff, unless specific instructions are issued that will ensure that the helicopter will pass behind the aircraft operating on the runway, or
+    2. Cleared to land and is over or past the landing threshold, unless specific instructions are issued that will ensure that the helicopter will pass behind the aircraft operating on the runway. A helicopter may cross in front of an arrival aircraft that has reached taxi speed (has acknowledged runway exiting instructions or is observed turning off the arrival runway).
 5. The Local Controller must issue restrictions to remain clear of any applicable runways when helicopters are maneuvering in a manner that may result in a runway being overflow.
 
 ## 4.12 - RWY 4/8 Configuration
@@ -177,15 +177,15 @@ See Honolulu TRACON for Diagrams.
 4. Manages ground traffic on taxiways between RWY 8L and 4R not including those Taxiways delegated to LC2
 5. Shall have automatic release authority for aircraft departing on the Redhill, Freeway, and Punchbowl VFR departure routes. LC1 will issue a traffic advisory to LC2 for Punchbowl departures.
 6. LC1 must request from LC2 for all IFR aircraft departing RWY 8L, 4R/4L.
-   1. PHRASEOLOGY: LC2, LC1 APREQ IFR release on (ACID), (Type aircraft), (Initial departure heading), and (RWY departing).
-   2. EXAMPLE: LC1: "LC2, LC1, APREQ IFR release on CPT8700, C208 heading 120, departing RWY 4L. "
-   3. RESPONSE FROM LC2: "Released " or "Follow HAL218, B717 departing RWY 8R heading 140, released."
+    1. PHRASEOLOGY: LC2, LC1 APREQ IFR release on (ACID), (Type aircraft), (Initial departure heading), and (RWY departing).
+    2. EXAMPLE: LC1: "LC2, LC1, APREQ IFR release on CPT8700, C208 heading 120, departing RWY 4L. "
+    3. RESPONSE FROM LC2: "Released " or "Follow HAL218, B717 departing RWY 8R heading 140, released."
 7. When a HOLD FOR RELEASE is given to LC1 by LC2 for a departure, LC1 must place the HOLD FOR RELEASE memory aide placard on the departure strip for which the release was requested.
 8. Must provide a point-out to LC2 for aircraft flying an extended downwind to RWY 4R/L.
-   1. LC1 shall have approval/disapproval authority for fighter aircraft requesting the overhead approach to RWY 4R. Overhead approaches to RWY 4R must be APREQ 's by Approach Control with LC1. LC1 shall then advise LC2 of the arriving fighters.
+    1. LC1 shall have approval/disapproval authority for fighter aircraft requesting the overhead approach to RWY 4R. Overhead approaches to RWY 4R must be APREQ 's by Approach Control with LC1. LC1 shall then advise LC2 of the arriving fighters.
 9. LC1 is responsible for that area on taxiway RA between the runway 4R Approach hold lines. Departing aircraft from taxiway C on taxiway RA will be held short of the Runway 4R final approach and switched to LC I frequency. LC1 will taxi aircraft in the Runway 4R final approach course on RA to avoid overflight by aircraft under their control. LC1must issue traffic to LC2 on any Punchbowl VFR departure.
-   1.  PHRASEOLOGY: "Traffic, N9118Z, PA28, departing on the Punchbowl."
-   2.  LC2: "Traffic observed."
+    1. PHRASEOLOGY: "Traffic, N9118Z, PA28, departing on the Punchbowl."
+    2. LC2: "Traffic observed."
 
 ### 4.12.2 - LC2 Responsibilities
 
@@ -193,9 +193,9 @@ See Honolulu TRACON for Diagrams.
 2. LC2 is responsible for RWY 8R, TWY J south of TWY B, TWY R west of the 4R final approach course hold short line and all taxiways between R and RWY 8R exclusive of that portion of TWY R between the RWY 4R approach hold lines which is designated to LC1.
 3. Advise LC1 of any helicopter traffic departing on the Shoreline VFR departure route. All helicopters on the Shoreline departures from the south ramp will be under the control of LC2. LC2 must exchange traffic on any helicopter arrivals from the North, West, or East that are under LC1 control.
 4. LC2 approves IFR releases of all departures off RWY 4L/4R and 8L with LC1/LA
-   1. PHRASEOLOGY: LC2, LC1 APREQ IFR release on (ACID), (Type aircraft), (Initial departure heading), and (RWY departing).
-   2. EXAMPLE - LC1: “LC2, LC1, APREQ IFR release on CPT8700, C208 heading 130, departing RWY 4L.”
-   3. Response from LC2: “Released” or “Follow HAL218, B717 departing RWY 8R heading 155, released.” Or “Hold for release.”
+    1. PHRASEOLOGY: LC2, LC1 APREQ IFR release on (ACID), (Type aircraft), (Initial departure heading), and (RWY departing).
+    2. EXAMPLE - LC1: “LC2, LC1, APREQ IFR release on CPT8700, C208 heading 130, departing RWY 4L.”
+    3. Response from LC2: “Released” or “Follow HAL218, B717 departing RWY 8R heading 155, released.” Or “Hold for release.”
 5. LC2 must use memory aids when approving an IFR release to LC1/LA.
 6. LC2 is responsible for separation, avoid overflight, and wake turbulence application for all RWY 8R departures with reference to the RWY 4R arrivals.
 7. When traffic has been issued to LC2 by LC1/LA on a Punchbowl departure, LC2 is responsible for separation with reference to RWY 8R departures. LC2 must account for type aircraft, performance characteristics, and location of Punchbowl departure aircraft when departing traffic off RWY 8R once traffic has been issued.
@@ -228,9 +228,9 @@ See Honolulu TRACON for Diagrams.
 
 1. LC2 is responsible for RWY 26L, TWY R and those taxiways between RWY 26L and TWY R, TWYs J, T, and A south of RWY 26R, and TWY B west of TWY D.
 2. LC2 must request a release from LC1/LA for all departures that require a RWY 26L departure. Memory aids must be used when a HOLD FOR RELEASE is issued.
-   1. **PHRASEOLOGY:** “Request release on (ACID), (Type aircraft), (Initial departure heading), and (RWY departing).
-   2. **EXAMPLE- LC1:** “Request release on PAL100, A340, heading 220, departing RWY 26L.”
-   3. **Response from LC1:** “Released” or “Follow HAL218, B717 departing RWY 26R heading 200, released.” or “Hold for Release.”
+    1. **PHRASEOLOGY:** “Request release on (ACID), (Type aircraft), (Initial departure heading), and (RWY departing).
+    2. **EXAMPLE- LC1:** “Request release on PAL100, A340, heading 220, departing RWY 26L.”
+    3. **Response from LC1:** “Released” or “Follow HAL218, B717 departing RWY 26R heading 200, released.” or “Hold for Release.”
 3. Aircraft arriving to RWY 26L may only be changed to RWY 26R if an operational advantage exists.
 4. All landing clearances must be done on the frequency for the position that has responsibility for the landing runway.
 5. All ADG IV aircraft and below landing RWY 26L and taxing to the south ramp are authorized to taxi through the departure corridor for RWY 22R/22L without restriction. ADG V and VI aircraft must be held short of the departure corridor (RWY 4R APPROACH) for RWY 22R/22L until the departure is clear of TWY R. LC2 will hold ADG V and VI aircraft short of the departure corridor and coordinate with LC1/LA to transition the corridor.

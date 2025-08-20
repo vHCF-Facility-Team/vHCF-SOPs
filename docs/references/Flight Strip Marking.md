@@ -48,17 +48,17 @@ vStrips uses a slightly different layout than the FAA Flight Strips, difference 
 **Marking of Annotation Boxes:**
 
 - Clearance Delivery
-  - Box 1: Letter of reported ATIS if initial radio communication is established
-  - Box 4: “PDC” if PDC is issued successfully; “X” to indicate a correct voice clearance read back.
+    - Box 1: Letter of reported ATIS if initial radio communication is established
+    - Box 4: “PDC” if PDC is issued successfully; “X” to indicate a correct voice clearance read back.
 - Ground Control
-  - Box 1: Letter of reported ATIS if initial radio communication is established
-  - Box 3: Ramp/Gate/Location information. When an aircraft does not access a taxiway directly from a gate, use the alley or location on the airport that the aircraft is taxiing from
-  - Box 5: Runway assignment
-  - Box 6: The taxiway designator for intersection departures
+    - Box 1: Letter of reported ATIS if initial radio communication is established
+    - Box 3: Ramp/Gate/Location information. When an aircraft does not access a taxiway directly from a gate, use the alley or location on the airport that the aircraft is taxiing from
+    - Box 5: Runway assignment
+    - Box 6: The taxiway designator for intersection departures
 - Local Control:
-  - Box 2: “*” when departure release has been obtained for aircraft requiring a departure release
-  - Box 8: Rolling time. Minutes only
-  - Box 9: Final assigned heading.
+    - Box 2: “*” when departure release has been obtained for aircraft requiring a departure release
+    - Box 8: Rolling time. Minutes only
+    - Box 9: Final assigned heading.
 
 ## 3 - ATCT Arrivals
 
@@ -82,11 +82,11 @@ vStrips uses a slightly different layout than the FAA Flight Strips, difference 
 **Marking of Annotation Boxes:**
 
 - Local Control
-  - Box 1 (VFR): Letter of reported ATIS if initial radio communication is established. Or WX to indicate the pilot has received all required information in lieu of the ATIS
-  - Box 2 (VFR): Type of landing. “FS” = Full Stop, “LA” = Low Approach, “TG” = Touch and Go, “SG” = Stop and Go, or “OP” = The Option
-  - Boxes 3 – 6 (VFR): If type of landing changes. Rewrite new type of landing
-  - Box 3: Gate or parking location (if received)
-  - Box 7: Taxiway aircraft exited the runway
-  - Box 8: Time when the aircraft lands (for VFR only with full stop) or frequency change to departure. Minutes only.
+    - Box 1 (VFR): Letter of reported ATIS if initial radio communication is established. Or WX to indicate the pilot has received all required information in lieu of the ATIS
+    - Box 2 (VFR): Type of landing. “FS” = Full Stop, “LA” = Low Approach, “TG” = Touch and Go, “SG” = Stop and Go, or “OP” = The Option
+    - Boxes 3 – 6 (VFR): If type of landing changes. Rewrite new type of landing
+    - Box 3: Gate or parking location (if received)
+    - Box 7: Taxiway aircraft exited the runway
+    - Box 8: Time when the aircraft lands (for VFR only with full stop) or frequency change to departure. Minutes only.
 - Ground Control
-  - Box 3: Gate or parking location
+    - Box 3: Gate or parking location

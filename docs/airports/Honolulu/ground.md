@@ -14,17 +14,17 @@
 ## 3.2 - Standardized Taxi Routings
 
 1. East Ops:
-   1. Taxiway G northbound to Terminal 1, Taxiway L southbound
-   2. Taxiway V northbound to Hickam Ramp, Taxiway T southbound
-   3. Taxi route from the north/main terminal to RWY 8R is via TWY A and J.
-   4. Taxi route from the south ramp to RWY 8R is via TWY C.
+    1. Taxiway G northbound to Terminal 1, Taxiway L southbound
+    2. Taxiway V northbound to Hickam Ramp, Taxiway T southbound
+    3. Taxi route from the north/main terminal to RWY 8R is via TWY A and J.
+    4. Taxi route from the south ramp to RWY 8R is via TWY C.
 2. West Ops:
-   1. Taxiway L northbound to Terminal 1, Taxiway G southbound
-   2. Taxiway T northbound to Hickam Ramp, Taxiway V southbound. ADG V and ADG VI must be taxied inbound on TWY V excluding AF1.
-   3. Taxi route for heavy and four-engine turbojet aircraft from the north/main terminal/Hickam to RWY 22L is via TWY A; to RWY 26L via TWY A, D, C, RT and R.
-   4. Taxi route for heavy four-engine turbojet aircraft from the south ramp to RWY 26L is via TWY C, RT and R.
-   5. Taxi route for large/heavy jet aircraft from the North ramp to RWY 26R via TWY A, C.
-   6. Taxi route for aircraft from the South Ramp to RWY 26R via C.
+    1. Taxiway L northbound to Terminal 1, Taxiway G southbound
+    2. Taxiway T northbound to Hickam Ramp, Taxiway V southbound. ADG V and ADG VI must be taxied inbound on TWY V excluding AF1.
+    3. Taxi route for heavy and four-engine turbojet aircraft from the north/main terminal/Hickam to RWY 22L is via TWY A; to RWY 26L via TWY A, D, C, RT and R.
+    4. Taxi route for heavy four-engine turbojet aircraft from the south ramp to RWY 26L is via TWY C, RT and R.
+    5. Taxi route for large/heavy jet aircraft from the North ramp to RWY 26R via TWY A, C.
+    6. Taxi route for aircraft from the South Ramp to RWY 26R via C.
 3. From the north to the south ramp, the preferred route is via TWY E southbound across RWY 8L, 4L, and 4R.
 4. From the south to north ramp, the preferred route is via TWY D northbound across RWY 4R, 4L and 8L. EXCEPTION: During RWY 22/26 configuration, TWY D is the preferred routing for heavy jets to proceed across RWY 26R, 22R, and 22L enroute to RWY 26L.
 5. TWY P is closed to aircraft more than 12,500 pounds.
@@ -51,10 +51,10 @@
 ## 3.4 - Pushback Procedures
 
 1. When an aircraft calls ground control requesting pushback instructions from a non-movement area, and the aircraft will remain in a non-movement area, include the phraseology “at pilot’s discretion”
-   1. EXAMPLE – DAL21 pushback at pilot’s discretion. Remain clear of TWY Z.
+    1. EXAMPLE – DAL21 pushback at pilot’s discretion. Remain clear of TWY Z.
 2. When an aircraft calls ground control requesting pushback instructions and the aircraft will enter a movement are, i.e., taxiway, issue authorization on the taxiway/movement area.
-   1. EXAMPLE – DAL21 pushback on TWY Z. Tail/Face east
-   2. EXAMPLE – DAL21 pushback on TWY Z approved. Tail/Face east
+    1. EXAMPLE – DAL21 pushback on TWY Z. Tail/Face east
+    2. EXAMPLE – DAL21 pushback on TWY Z approved. Tail/Face east
 3. If Ramp Control is online, they will handle the startups and pushbacks inside the non-movement areas. Gates that need a pushback clearance into a movement area are still GC responsibility.
 
 ## 3.5 - Operations when Local Control is split
@@ -62,13 +62,13 @@
 1. Instruct all aircraft taxiing to RWY 8R from the south ramp to hold short of RWY 4R approach and monitor tower on 118.1
 2. When aircraft from the North ramp require RWY 26L (22/26 configuration) for departure due to operational necessity GC taxi the aircraft to hold short of RWY 26R at TWY D and advise aircraft to monitor tower on 118.1.
 3. Deliver all full flight progress strips as designated (RWY 4/8)
-   1. RWY 8R departure, pass flight progress strip to LC2
-   2. RWY 8R departure from the south ramp, pass flight progress strip to LC2,
-   3. Pass all military flight plans to LC 1 that will be outbound on TWY T or M.
-   4. Pass all flight progress strips for aircraft taxing from the Hickam AMC (outbound at A1 -A4) ramp to LC2.
-   5. Pass all helicopters (and float planes) flight progress strips departing on the Shoreline departure to LC2. All other helicopters and VFR departure route fixed wing aircraft will be passed to LC1.
-   6. NOTE: Shoreline departures for fixed wing aircraft, except for float planes, are not authorized when LC1 and LC2 are de-combined.
+    1. RWY 8R departure, pass flight progress strip to LC2
+    2. RWY 8R departure from the south ramp, pass flight progress strip to LC2,
+    3. Pass all military flight plans to LC 1 that will be outbound on TWY T or M.
+    4. Pass all flight progress strips for aircraft taxing from the Hickam AMC (outbound at A1 -A4) ramp to LC2.
+    5. Pass all helicopters (and float planes) flight progress strips departing on the Shoreline departure to LC2. All other  helicopters and VFR departure route fixed wing aircraft will be passed to LC1.
+    6. NOTE: Shoreline departures for fixed wing aircraft, except for float planes, are not authorized when LC1 and LC2 are de-combined.
 4. Deliver all flight progress strips as designated (RWY 22/26)
-   1. Pass all RWY 26R, 22L, 22R departure flight progress strips to LC1.
-   2. Pass all RWY 26L departure flight progress strips to LC2.
-   3. Pass all helicopter, VFR departure route fixed wing aircraft, and float plane departures strips to LC 1.
+    1. Pass all RWY 26R, 22L, 22R departure flight progress strips to LC1.
+    2. Pass all RWY 26L departure flight progress strips to LC2.
+    3. Pass all helicopter, VFR departure route fixed wing aircraft, and float plane departures strips to LC 1.

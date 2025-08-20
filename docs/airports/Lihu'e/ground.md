@@ -3,7 +3,7 @@
 ## 2.1 - Responsibilities
 
 1. Issue ATC clearances to all IFR and VFR aircraft.
-   1. Initial Altitude of all IFR aircraft is 5,000 ft.
+    1. Initial Altitude of all IFR aircraft is 5,000 ft.
 2. GC is responsible for all taxiways.
 3. GC control does not authorize pushbacks or startups.
 4. GC shall ensure that pilots have the most current ATIS prior to reaching the threshold of the runway.

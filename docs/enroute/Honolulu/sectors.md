@@ -28,12 +28,12 @@
 ### 3.2.3 - Coordination
 
 1. To aid Sectors 4/5 the following reroutes are recommended.
-   1. Aircraft inbound to HNL from FITES will be routed via FITES RV V12 HNL.
-   2. Oceanic aircraft departing HNL to FITES/SCOON be rerouted via V8 BLUSH RV FITES/SCOON.
-   3. OGG – HNL aircraft routed via V6 BLUSH RV V12 HNL.
+    1. Aircraft inbound to HNL from FITES will be routed via FITES RV V12 HNL.
+    2. Oceanic aircraft departing HNL to FITES/SCOON be rerouted via V8 BLUSH RV FITES/SCOON.
+    3. OGG – HNL aircraft routed via V6 BLUSH RV V12 HNL.
 2. Pilots requesting to depart from Kalaupapa Airport on an IFR flight plan via the Kalaupapa SID will call MKK Tower for clearance.
-   1. MKK Tower will relay clearance and release instructions to the pilot and advise to contact HCF Center on 124.100 when climbing above 1,500’.
-   2. Molokai Airport and Kalaupapa Airport should be treated as one airport when issuing departure clearances.
+    1. MKK Tower will relay clearance and release instructions to the pilot and advise to contact HCF Center on 124.100 when climbing above 1,500’.
+    2. Molokai Airport and Kalaupapa Airport should be treated as one airport when issuing departure clearances.
 
 ## 3.3 - Sector 4
 
@@ -70,6 +70,6 @@
 ### 3.5.3 - Coordination
 
 1. To aid Sectors 4/5 the following reroutes are recommended.
-   1. Aircraft inbound to HNL from FITES will be routed via FITES RV V12 HNL.
-   2. Oceanic aircraft departing HNL to FITES/SCOON be rerouted via V8 BLUSH RV FITES/SCOON.
-   3. OGG – HNL aircraft routed via V6 BLUSH RV V12 HNL.
+    1. Aircraft inbound to HNL from FITES will be routed via FITES RV V12 HNL.
+    2. Oceanic aircraft departing HNL to FITES/SCOON be rerouted via V8 BLUSH RV FITES/SCOON.
+    3. OGG – HNL aircraft routed via V6 BLUSH RV V12 HNL.

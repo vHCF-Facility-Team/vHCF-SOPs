@@ -3,10 +3,10 @@
 ## 2.1 - Departure Instructions
 
 1. Unless otherwise coordinated, Kalaeloa Tower must issue the following initial departure instructions:
-   1. Runway 4R/L – “Turn right Heading 220, climb and maintain 3,000.”
-   2. Runway 22L/R – “Fly runway Heading, climb and maintain 3,000.”
-   3. Runway 11 – “Turn right Heading 220, climb and maintain 3,000.”
-   4. JELIE# departures will follow charted procedures
+    1. Runway 4R/L – “Turn right Heading 220, climb and maintain 3,000.”
+    2. Runway 22L/R – “Fly runway Heading, climb and maintain 3,000.”
+    3. Runway 11 – “Turn right Heading 220, climb and maintain 3,000.”
+    4. JELIE# departures will follow charted procedures
 
 ## 2.2 - IFR Preferred Routing
 

@@ -19,11 +19,11 @@
 ## 4.2 - HCF Handoff to HNL_TRACON
 
 1. East Ops
-   1. Aircraft on the BOOKE#, INOYI#, JULLE#, KAENA#, KLANI#, MAGGI#, MAKAH#, OPACA# and SHLAE# shall be handed off to **HNL_H_APP** when HNL TRACON is split
-   2. Aircraft on the SYMIN# shall be handed off to **HNL_L_APP** when HNL TRACON is split.
+    1. Aircraft on the BOOKE#, INOYI#, JULLE#, KAENA#, KLANI#, MAGGI#, MAKAH#, OPACA# and SHLAE# shall be handed off to **HNL_H_APP** when HNL TRACON is split
+    2. Aircraft on the SYMIN# shall be handed off to **HNL_L_APP** when HNL TRACON is split.
 2. West Ops
-   1. Aircraft on the BOOKE#, KAENA#, KLANI#, OPACA# and SHLAE# shall be handed off to **HNL_H_APP** when HNL TRACON is split
-   2. Aircraft on the JULLE#, MAGGI#, MAKAH#, SAKKI# and SYMIN# shall be handed off to **HNL_L_APP** when HNL TRACON is split.
+    1. Aircraft on the BOOKE#, KAENA#, KLANI#, OPACA# and SHLAE# shall be handed off to **HNL_H_APP** when HNL TRACON is split
+    2. Aircraft on the JULLE#, MAGGI#, MAKAH#, SAKKI# and SYMIN# shall be handed off to **HNL_L_APP** when HNL TRACON is split.
 
 ## 4.3 - PHOG Descents
 

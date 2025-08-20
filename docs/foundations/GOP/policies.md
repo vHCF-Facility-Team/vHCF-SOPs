@@ -44,10 +44,10 @@ Controllers may be removed from the Honolulu Control Facility with cause for any
 5. Controlling above certified level
 6. Repeated unprofessional behavior on the VATSIM network and/or HCF Discord.
 7. Any activity or behavior that is deemed inappropriate, to include but not limited to:
-   1. Attempts to gather IP addresses.
-   2. Posting inappropriate links, music, or images in the HCF Discord server.
-   3. Any immoral activity, to include mention of illegal narcotics or other illegal activity.
-   4. Obtaining personal information and posting it without the consent of the individual.
+    1. Attempts to gather IP addresses.
+    2. Posting inappropriate links, music, or images in the HCF Discord server.
+    3. Any immoral activity, to include mention of illegal narcotics or other illegal activity.
+    4. Obtaining personal information and posting it without the consent of the individual.
 8. Failure to meet activity requirements as outlined in 2.1.
 
 ## 2.5 - Leave of Absence (LOA)

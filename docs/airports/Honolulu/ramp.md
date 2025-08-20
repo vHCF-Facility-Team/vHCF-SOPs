@@ -5,7 +5,7 @@
 1. Ramp Control will be responsible for all movement in the non-movement areas. If Ramp Control is online, Clearance Delivery will transfer pilots to Ramp Control if a startup and pushback happens fully inside the non-movement area.
 2. Pushbacks onto a taxiway are done by GC and not Ramp Control.
 3. Ramp Control is an event only position or if Staff approves it due to traffic volume. Additionally, the following requirement needs to be fulfilled:
-   1. Ramp Control is only allowed to be active when a Ground Controller as well as a Local Controller are at least online.
+    1. Ramp Control is only allowed to be active when a Ground Controller as well as a Local Controller are at least online.
 4. When there is no Delivery Clearance online, then Ramp Control takes over these duties for their specific area.
 
 ## 5.2 - Hickam Ramp

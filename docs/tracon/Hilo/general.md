@@ -23,9 +23,9 @@
 
 1. Unless otherwise coordinated, ITO ATCT shall request departure releases from ITO TRACON for all IFR departures.
 2. Departure Releases AND rolling calls will include the following content:
-   1. Aircraft Callsign
-   2. SID or Initial Waypoint
-   3. Departure Runway
+    1. Aircraft Callsign
+    2. SID or Initial Waypoint
+    3. Departure Runway
 3. ITO TRACON may opt to provide ITO ATCT with blanket releases. If Blanket Releases are in effect, a Rolling Call will be sent to TRACON for each IFR departure.
 
 ## 2.6 - Missed Approached/Go Arounds

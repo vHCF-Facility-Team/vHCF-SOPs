@@ -68,9 +68,9 @@ Rating Examinations are used to determine if students meet the criteria for prom
 
 1. Rating Examinations test students on either a simulated or live basis on practical applications for the purpose of rating promotions.
 2. HCF conducts Rating Examinations for the following VATSIM rating changes at the conclusion of the listed training courses:
-   1. S2 – Advanced Local (TWR)
-   2. S3 – Terminal Radar Control (APP)
-   3. C1 - Enroute Radar Control (CTR)
+    1. S2 – Advanced Local (TWR)
+    2. S3 – Terminal Radar Control (APP)
+    3. C1 - Enroute Radar Control (CTR)
 3. Students are prohibited from recording, streaming, or otherwise broadcasting an Rating Examinations.
 
 ### 3.6 Rating Consolidation
@@ -85,9 +85,9 @@ Rating Examinations are used to determine if students meet the criteria for prom
 3. Terminal Radar Control consolidation period: **50 Hours on qualifying positions.**
 4. Enroute Radar Control consolidation period: **50 Hours on qualifying positions.**
 5. For clarity, the certification courses used within section 3.6 correspond directly to the naming conventions used by VATSIM as follows:
-   1. Advanced Local = Aerodrome Controller (S2)
-   2. Terminal Radar Control = Terminal Controller (S3)
-   3. Enroute Radar Control = Enroute Controller (C1)
+    1. Advanced Local = Aerodrome Controller (S2)
+    2. Terminal Radar Control = Terminal Controller (S3)
+    3. Enroute Radar Control = Enroute Controller (C1)
 
 ## 4. Courses
 
@@ -131,43 +131,43 @@ Once a course has been implemented:
 ### 4.3 Home Controller Activity Requirements
 
 1. Any home controller who does not hold any certifications to control within HCF must complete at least three (3) hours of training per quarter.
-   1. Home Controllers that are listed on a training "waitlist" are exempt from this section.
+    1. Home Controllers that are listed on a training "waitlist" are exempt from this section.
 
 ## 5. Trainers
 
 ### 5.1 Mentors
 
 1. The requirements to be appointed as a mentor are:
-   1. Hold the rating of Student 2 (S2) or higher
-   2. Be an active member of HCF in good standing
-   3. Be a team player and able to provide input to advance the training department
-   4. Have a thorough understanding of HCF Policies and Procedures and the airspace
-   5. Have held your current rating for 90 days
-   6. Have a consistent online presence
-   7. Complete the HCF Basic Instructional Practices (MTR) training course and be recommended by an instructor to be appointed by the HCF Training Administrator (TA)
+    1. Hold the rating of Student 2 (S2) or higher
+    2. Be an active member of HCF in good standing
+    3. Be a team player and able to provide input to advance the training department
+    4. Have a thorough understanding of HCF Policies and Procedures and the airspace
+    5. Have held your current rating for 90 days
+    6. Have a consistent online presence
+    7. Complete the HCF Basic Instructional Practices (MTR) training course and be recommended by an instructor to be appointed by the HCF Training Administrator (TA)
 2. Mentors will:
-   1. Report to the Training Administrator
-   2. Teach new students the policies and procedures of the ratings of which they are authorized to instruct and assist the student in preparing for their Rating Examination
-   3. Monitor Students as outlined below in the 'Monitoring' section of this policy
-   4. Must follow all training outlines and documents in accordance with HCF Procedures
+    1. Report to the Training Administrator
+    2. Teach new students the policies and procedures of the ratings of which they are authorized to instruct and assist the student in preparing for their Rating Examination
+    3. Monitor Students as outlined below in the 'Monitoring' section of this policy
+    4. Must follow all training outlines and documents in accordance with HCF Procedures
 
 ### 5.2 Instructors
 
 1. The requirements to be recommended as an instructor are:
-   1. Hold a rating of Controller (C1) or higher
-   2. Be an active member of HCF in good standing
-   3. Have a consistent online presence
-   4. Have advanced knowledge and understanding of HCF Policies and Procedures and the airspace
-   5. Be a team player and able to provide input to advance the training department
-   6. Complete the HCF Advanced Instructional Practices (INS) training course and be signed off by the HCF Air Traffic Manager (ATM) and the HCF Training Administrator (TA)
+    1. Hold a rating of Controller (C1) or higher
+    2. Be an active member of HCF in good standing
+    3. Have a consistent online presence
+    4. Have advanced knowledge and understanding of HCF Policies and Procedures and the airspace
+    5. Be a team player and able to provide input to advance the training department
+    6. Complete the HCF Advanced Instructional Practices (INS) training course and be signed off by the HCF Air Traffic Manager (ATM) and the HCF Training Administrator (TA)
 2. Instructors will:
-   1. Report to the Training Administrator
-   2. Train new and advanced students in all rating levels
-   3. Train new Mentors for their duties
-   4. Must follow all training outlines and documents in accordance with HCF Procedure
-   5. Monitor students' training on HCF facilities
-   6. Perform Rating Examinations
-   7. At the request of the Training Administrator, assist in the development and upkeep of training content and material
+    1. Report to the Training Administrator
+    2. Train new and advanced students in all rating levels
+    3. Train new Mentors for their duties
+    4. Must follow all training outlines and documents in accordance with HCF Procedure
+    5. Monitor students' training on HCF facilities
+    6. Perform Rating Examinations
+    7. At the request of the Training Administrator, assist in the development and upkeep of training content and material
 
 ### 5.3 Visiting Instructors
 
@@ -177,9 +177,9 @@ Once a course has been implemented:
 ### 5.4 Trainer Activity Requirements
 
 1. All trainers are subject to the currency requirements in the HCF GOP Policy. Trainers must remain current:
-   1. Must complete a minimum of 2 training sessions or 4 hours of training department functions per calendar month or receive other approval from the Training Administrator.
+    1. Must complete a minimum of 2 training sessions or 4 hours of training department functions per calendar month or receive other approval from the Training Administrator.
 2. Visiting trainers that have been given permission to exercise those privileges at HCF must remain current:
-   1. Must complete a minimum of 1 training session per calendar month or receive other approval from the Training Administrator.
+    1. Must complete a minimum of 1 training session per calendar month or receive other approval from the Training Administrator.
 3. To be released from this requirement, contact the Training Administrator through in writing with a request to be placed on a Trainer Leave of Absence (T-LOA).
 
 ### 5.5 Trainer Leave of Absence
@@ -189,9 +189,9 @@ Trainer Leave of Absences will be granted by the Training Administrator on a cas
 ### 5.6 Removal
 
 1. Trainers may be subject to removal from the Training Staff for the following reasons:
-   1. Suspension from the VATSIM network.
-   2. Failure to comply with any VATSIM or HCF Policy.
-   3. Failure to meet the activity requirements for two (2) consecutive months unless written approval from the Training Administrator exists.
+    1. Suspension from the VATSIM network.
+    2. Failure to comply with any VATSIM or HCF Policy.
+    3. Failure to meet the activity requirements for two (2) consecutive months unless written approval from the Training Administrator exists.
 
 ## 6. Visiting and Transferring Controllers
 
