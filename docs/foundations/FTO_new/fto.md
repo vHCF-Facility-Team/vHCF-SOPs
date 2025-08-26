@@ -77,14 +77,16 @@ Rating Examinations are used to determine if students meet the criteria for prom
 
 1. All home controllers must complete a consolidation period by controlling qualifying positions (see table below for qualifying positions) prior to requesting access to the Academy Course and/or requesting training for the next rating.
 
-| Certification Course / Rating Sought | Advanced Local | Terminal Radar Control | Enroute Radar Control |
-| --- | :---: | :---: | :---: |
-| Qualifying Positions | DEL<br>S-GND<br>GND<br>S-TWR | TWR | APP |
+| Certification Course / Rating Sought | Advanced Ground | Simple Local | Advanced Local | Terminal Radar Control | Enroute Radar Control |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| Qualifying Positions | DEL<br>S-GND | DEL<br>S-GND<br>GND | S-TWR | TWR | APP |
 
-2. Advanced Local consolidation period: **30 Hours on qualifying positions.**
-3. Terminal Radar Control consolidation period: **50 Hours on qualifying positions.**
-4. Enroute Radar Control consolidation period: **50 Hours on qualifying positions.**
-5. For clarity, the certification courses used within section 3.6 correspond directly to the naming conventions used by VATSIM as follows:
+2. Advanced Ground consolidation Period: **30 Hours on qualifying positions.**
+3. Simple Local consolidation period: **50 Hours on qualifying positions.**
+4. Advanced Local consolidation period: **30 Hours on qualifying positions.**
+5. Terminal Radar Control consolidation period: **50 Hours on qualifying positions.**
+6. Enroute Radar Control consolidation period: **50 Hours on qualifying positions.**
+7. For clarity, the certification courses used within section 3.6 correspond directly to the naming conventions used by VATSIM as follows:
     1. Advanced Local = Aerodrome Controller (S2)
     2. Terminal Radar Control = Terminal Controller (S3)
     3. Enroute Radar Control = Enroute Controller (C1)
