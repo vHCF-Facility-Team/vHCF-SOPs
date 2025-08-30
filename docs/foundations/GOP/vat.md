@@ -6,9 +6,9 @@ The process for becoming a visiting controller at the Honolulu Control Facility 
 
 - Controlled no less than 50 hours in their current rating at their Home ARTCC
 - Shall have their current rating for at least 90 days since promotion
-- Hold a minimum S1 rating
+- Hold a minimum S3 rating
 
-<p style="text-align: center;">*note, as of this writing, the HCF visitor exam is being modified.</p>
+<p style="text-align: center;">*note, as of this writing, the HCF visitor exam is being written and is not in effect yet.</p>
 
 **Controlling at Unrestricted Fields**
 
