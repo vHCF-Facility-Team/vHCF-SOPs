@@ -12,9 +12,9 @@ Bold designates Primary Position
 ## Guam International Positions
 | **Position**           | **Name**      | **Call Sign** | **Frequency** |
 |------------------------|---------------|---------------|---------------|
-| **Guam Tower**         | Guam Tower    | GUM_TWR       | 118.100       |
-| **Guam Ground**        | Guam Ground   | GUM_GND       | 121.900       |
-| Guam Ramp              | Guam Ramp     | GUM_RMP       | 121.600       |
+| **Guam Tower**         | Agana Tower    | GUM_TWR       | 118.100       |
+| **Guam Ground**        | Agana Ground   | GUM_GND       | 121.900       |
+| Guam Ramp              | Agana Ramp     | GUM_RMP       | 121.600       |
 
 ## Andersen Air Force Base Positions
 | **Position**           | **Name**          | **Call Sign** | **Frequency** |
