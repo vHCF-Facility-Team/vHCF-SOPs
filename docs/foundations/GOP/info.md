@@ -16,4 +16,4 @@
 | D | 01 Jan 2024 | Housekeeping | Dave Mayes |
 | E | 02 Apr 2024 | Update on Roster Removal | Dave Mayes |
 | F | 09 Jul 2024 | Update on Staff Application Requirements | Dave Mayes |
-| G | 01 Jan 2025 | Move to Mkdocs | Dave Mayes |
+| G | 01 Jan 2025 | Move to Mkdocs | Dirk Thorben Kottenhahn |

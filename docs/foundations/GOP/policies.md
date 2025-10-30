@@ -1,6 +1,10 @@
 # 2. ARTCC Policies
 
-## 2.1 - Activity Requirements
+## 2.1 - General Requirements
+
+- When logging in on a position, that position should be staffed for at least one (1) hour unless the controller changes to another position or another controller takes over.
+
+## 2.2 - Activity Requirements
 
 In order to maintain active status, members must meet the current VATUSA Global Controller Administration Policy (GCAP) standards.
 
@@ -17,7 +21,7 @@ If any member does not achieve currency, they will be removed from the roster. I
 
 Visiting Controllers from Outside VATUSA Division are required to have 50%+1 controlling hours in their Home Division in accordance with the VATSIM Transfer and Visiting Controller Policy §2.2
 
-## 2.2 - Returning to the ARTCC
+## 2.3 - Returning to the ARTCC
 
 | Length of Absence | What to do: |
 |---|---|
@@ -25,15 +29,15 @@ Visiting Controllers from Outside VATUSA Division are required to have 50%+1 con
 | 6-12 Months | - Rejoin ARTCC.<br>- Familiarize self with any SOP and LOA changes.<br>- Schedule a familiarization session with an instructor (This shall be done at the highest level of certification, e.g., a C1 shall control at the CTR level) |
 | >12 Months | - Rejoin ARTCC.<br>- All prior certifications are considered void.<br>- Must undergo a recertification process. |
 
-## 2.3 - Conduct
+## 2.4 - Conduct
 
 All members shall abide by all VATSIM Code of Conduct, Code of Regulations and VATUSA conduct policies. Additionally, HCF reserves the right to restrict members’ usage of Discord and/or any future means of communication.
 
-## 2.4 - Roster Removal
+## 2.5 - Roster Removal
 
 Controllers may be removed from the Honolulu Control Facility roster for cause or inactivity as stated in section 2.1 of this General Operating Policy. All removals shall be approved by the ATM with referral to the Deputy Director (VATUSA2).
 
-### 2.4.1 - Removal for Cause
+### 2.5.1 - Removal for Cause
 
 Controllers may be removed from the Honolulu Control Facility with cause for any reason outlined in VATSIM CoC, CoR, and VATUSA policies or the following:
 
@@ -50,7 +54,7 @@ Controllers may be removed from the Honolulu Control Facility with cause for any
     4. Obtaining personal information and posting it without the consent of the individual.
 8. Failure to meet activity requirements as outlined in 2.1.
 
-## 2.5 - Leave of Absence (LOA)
+## 2.6 - Leave of Absence (LOA)
 
 Members who will be unable to control and meet activity requirements set forth by 2.1 of this policy may request a LOA by emailing both the ATM and DATM with the following:
 
@@ -60,16 +64,17 @@ Members who will be unable to control and meet activity requirements set forth b
 
 Controllers may be granted a maximum of 2 consecutive LOAs (totaling up to 12 months). If a controller logs into the network, it will automatically end their LOA with HCF.
 
-## 2.6 - Approved Frequencies
+## 2.7 - Approved Frequencies
+
 Controllers shall only use approved frequencies while controlling on the VATSIM network. Facility specific frequencies are programmed in the CRC software. Controllers found in violation of this policy shall be issued a verbal warning and be asked to correct the mistake as soon as possible.
 
-## 2.7 - Approved Callsigns
+## 2.8 - Approved Callsigns
 
 All controllers shall only use approved Roles and Ratings while controlling or observing on the VATSIM network.
 
 While using the VATSIM CRC software, controllers shall select their appropriate role (Observer, Student, Controller, Instructor) and then select their current rating.
 
-## 2.8 - Conflict Resolution
+## 2.9 - Conflict Resolution
 
 The ATM is responsible for conflict resolution. If a conflict between controllers arises the following pro-cedure should be applied:
 
