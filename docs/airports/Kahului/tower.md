@@ -25,7 +25,7 @@
 
 ## 4.3 - Departure Procedures
 
-The following Departure SIDs are available at PHMK:
+The following Departure SIDs are available at PHOG:
 
 | SID | Initial Altitude |
 |---|:---:|
