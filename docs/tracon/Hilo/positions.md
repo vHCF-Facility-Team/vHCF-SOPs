@@ -7,4 +7,4 @@
 | ITO_APP | Approach* | Hilo Approach | 119.700 |
 | ITO_ATIS | ATIS | Hilo ATIS | 126.400 |
 
-<p style="text-align:center;">*Open from 0600-2200 HST (1600-0800Z). Between the hours of 2200-0600 HST, contact HNL_07_CTR 126.600.</p>
+<p style="text-align:center;">*Open from 0600-2200 HST (1600-0800Z). Between the hours of 2200-0600 HST, contact HNL_07_CTR 127.600.</p>
