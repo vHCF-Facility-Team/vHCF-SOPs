@@ -25,7 +25,7 @@ See [Preferred Routing](<../../references/Preferred Routing.md>)
 | Time | Callsign/Frequency |
 |:---:|:---:|
 | 0600-2200 HST | Hilo Approach (119.700) |
-| 2200-0600 HST | HCF Center (126.600) |
+| 2200-0600 HST | HCF Center (127.600) |
 
 ## 2.5 - VFR Departure Instructions
 
