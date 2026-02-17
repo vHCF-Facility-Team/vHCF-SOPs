@@ -32,6 +32,12 @@
 
 All controllers staffing HCF positions must be certified per this policy.
 
+### 2.2 Solo Certifications
+
+- Solo Certifications shall only be issued upon all lessons being satifactorily completed.
+- Solo Certifications for OGG TWR, OGG APP, and HCF CTR shall be issued in compliance with VATUSA Training policy (DP002).
+- Solo Certifications shall NOT work their Solo Certification position during HCF Events.
+
 ## 3. Training Procedures
 
 ### 3.1 Scheduling Training
