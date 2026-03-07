@@ -3,8 +3,8 @@
 !!! info "Revision Info"
 	- Document Number: HCF 1100.1
 	- Date: 01 Jan 2025
-	- Revision Version: **G**
-	- Editor: Dave Mayes, HCF ATM
+	- Revision Version: **H**
+	- Editor: Sebastian Kang, HCF FE
 
 ## Record of Revisions
 
@@ -17,3 +17,4 @@
 | E | 02 Apr 2024 | Update on Roster Removal | Dave Mayes |
 | F | 09 Jul 2024 | Update on Staff Application Requirements | Dave Mayes |
 | G | 01 Jan 2025 | Move to Mkdocs | Dirk Thorben Kottenhahn |
+| H | 07 Mar 2026 | Housekeeping | Sebastian Kang |
